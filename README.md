@@ -1,1 +1,3 @@
-# python_para_no_programadores
+# Python para no programadores
+
+Repositorio de ejercicios resueltos del curso de Python para no programadores.
